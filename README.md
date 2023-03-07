@@ -1,4 +1,4 @@
-ImageOptimizing
+#ImageOptimizing
 
 Este es un script en Python para optimizar imágenes de forma sencilla y automatizada mediante la línea de comandos. El script utiliza la biblioteca Pillow para aplicar diferentes transformaciones a las imágenes, como recorte, cambio de tamaño, volteo, rotación, ajuste de brillo y contraste, aplicación de filtros, entre otros. El uso de argumentos en la línea de comandos hace que el proceso de optimización sea fácil y rápido para el usuario.
 Requerimientos
